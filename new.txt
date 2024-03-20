@@ -1,2 +1,4 @@
  hi bhan
 the pull request sccessded congrats bhanuprakash
+i configured pipline when pr raised nad jenkins jobs should run i
+then when merge to main it should triggre the jenkins pipeline by webhook trigger 
