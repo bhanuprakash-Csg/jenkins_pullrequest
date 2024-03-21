@@ -2,4 +2,10 @@
 the pull request sccessded congrats bhanuprakash
 i configured pipline when pr raised nad jenkins jobs should run i
 then when merge to main it should triggre the jenkins pipeline by webhook trigger 
-i will test one  more time for my confirmation   
+i will test one  more time for my confirmation  
+
+this is working fine in the morning not here working what happen
+
+
+
+all the commits should be done even by all triggre   
